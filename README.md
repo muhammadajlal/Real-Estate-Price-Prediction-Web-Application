@@ -11,5 +11,7 @@ Technology and tools wise this project covers,
 * Matplotlib for data visualization
 * Sklearn for model building
 * Jupyter notebook, visual studio code and pycharm as IDE
+* Gitbash, WinSCP & nginx as tools for reverse proxy setup
 * Python flask for http server
 * HTML/CSS/Javascript for UI
+* Utilized reverse proxy setup & created an AWS EC2 Ubuntu instance to deploy the application on the cloud
