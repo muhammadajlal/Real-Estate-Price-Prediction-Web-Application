@@ -71,6 +71,9 @@ Follow these steps to run the Home Price Prediction Web Application:
 
 The application was deployed on an AWS EC2 Ubuntu instance using a reverse proxy setup.
 
+## Jupyter Notebook For This Project
+You can find the detailed Jupyter Notebook of this project here `https://github.com/muhammadajlal/Machine-Learning-Notebooks/blob/main/Real_Estate_Price_Prediction_Application_Notebook.ipynb`. This Jupyter Notebook contains everything from EDA to machine learning model training.
+
 ## Note
 Ensure that you have Python installed on your machine and that ports are available for running the Flask server. If you encounter any issues, refer to the documentation or reach out to the project maintainers.
 
