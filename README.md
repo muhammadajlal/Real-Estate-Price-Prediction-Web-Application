@@ -59,13 +59,13 @@ Follow these steps to run the Home Price Prediction Web Application:
 ## Technologies and Tools Used
 
 - **Python:** The main programming language used.
+- **Javascript/HTML/CSS:** Used for the building WEB user interface.
 - **Numpy and Pandas:** Used for data cleaning.
 - **Matplotlib:** Used for data visualization.
 - **Scikit-Learn:** Used for model building.
+- **Python Flask:** Used for the HTTP server.
 - **Jupyter Notebook, Visual Studio Code, and PyCharm:** Used as IDEs.
 - **Gitbash, WinSCP, and Nginx:** Used as tools for reverse proxy setup.
-- **Python Flask:** Used for the HTTP server.
-- **HTML/CSS/Javascript:** Used for the user interface.
 
 ## Deployment
 
