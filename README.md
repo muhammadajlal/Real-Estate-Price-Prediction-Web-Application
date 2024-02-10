@@ -7,7 +7,7 @@ Follow these steps to run the Home Price Prediction Web Application:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/muhammadajlal/home-price-prediction.git
+    git clone https://github.com/muhammadajlal/Real-Estate-Price-Prediction-Web-Application.git
     ```
 
 2. Navigate to the project directory:
